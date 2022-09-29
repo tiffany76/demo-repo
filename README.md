@@ -8,4 +8,5 @@ Watch Git tutorial on YouTube.
 
 ## Local Development
 
-Open index.html in your browser.
+1. Open index.html in your browser.
+2. Have fun.
